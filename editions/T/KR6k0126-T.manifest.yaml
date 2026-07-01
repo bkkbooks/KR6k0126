@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6k0126/T/v1
+canonical_location: https://kanripo.org/bkk/KR6k0126/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 菩薩五法懺悔文
+  identifiers:
+    krp: KR6k0126
+    cbeta: T24n1504
+    cbeta_old_id: T24n1504
+    authorityid: CA0002461
+    json_key: T1504
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T24/T24n1504.xml
+    old_id: T24n1504
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0126_000-T.yaml, hash: 'sha256:8c54376b0cd7251619be4e1fe59b51f1407a96018a6b90653d55413760476208'}
+  - {seq: 1, filename: KR6k0126_001-T.yaml, hash: 'sha256:73b0773b5d0717f0696e91703ff7557e6d4002c73ce82d460a5216f5a494ad72'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0126_000-T.markers.yaml, hash: 'sha256:a84306918094e13ef7fd0980880f36907ba71f50a5144465ea2092fb7f8681bf'}
+  - {seq: 1, role: markers, filename: assets/KR6k0126_001-T.markers.yaml, hash: 'sha256:185080123808f5c62fde8173f7480090344d16751fbabaa9d5785c83a82a8e30'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0126_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 631
+  label: 菩薩五法懺悔文
+  type: juan
+  level: 1
+hash: sha256:a95afa02f84c490423bc3d3d6953082eb27c8b023ccf74bdbe305436b4a8a322

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0126/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 菩薩五法懺悔文
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T24/T24n1504.xml
+    old_id: T24n1504
+hash: sha256:8c54376b0cd7251619be4e1fe59b51f1407a96018a6b90653d55413760476208
