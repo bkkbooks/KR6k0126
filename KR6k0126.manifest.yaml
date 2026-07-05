@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0126_000.yaml, hash: 'sha256:8c54376b0cd7251619be4e1fe59b51f1407a96018a6b90653d55413760476208'}
-  - {seq: 1, filename: KR6k0126_001.yaml, hash: 'sha256:2c369c0e01d91feeb606f6d3c3029374723f7a3b3595c4371a0a44b47dc36440'}
+  - {seq: 1, filename: KR6k0126_001.yaml, hash: 'sha256:73b0773b5d0717f0696e91703ff7557e6d4002c73ce82d460a5216f5a494ad72'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0126_001.markers.yaml, hash: 'sha256:2e5cd0ad48a865778291732b0c8923787feb70fc868c681e9276fd8949c969d0'}
+  - {seq: 0, role: markers, filename: assets/KR6k0126_000.markers.yaml, hash: 'sha256:d114c6888dae833c9cbd313d018c24a1abe3f8215284bc7f779c71ded74269bd'}
+  - {seq: 1, role: markers, filename: assets/KR6k0126_001.markers.yaml, hash: 'sha256:aa52a7f6e69eecdea1f5589d21558434e0053fd00c89365fea8957e2dadebdfb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 菩薩五法懺悔文
   type: juan
   level: 1
-hash: sha256:614d27e9ca60d896b2df34399b856e201044320e803941a7188bbfa74c4ee552
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ba3814767ba25a58d997cf5070203fdcf038a1e5b666fb94ed09354a6186cbff
